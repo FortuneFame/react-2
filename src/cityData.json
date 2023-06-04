@@ -1,0 +1,53 @@
+{
+  "cityName": "Вроцлав",
+  "flagCity": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Wroclaw_flag_with_arms.svg/640px-Wroclaw_flag_with_arms.svg.png",
+  "country": "Польша",
+  "flagCountry": "https://s9.travelask.ru/system/images/files/001/510/054/wysiwyg_jpg/image14.jpg?1640635571",
+  "yearEstablished": "≈ 900 года",
+  "population": "632 996",
+  "area": "292.92 км²",
+  "climate": "Умеренный континентальный",
+  "dayCity": "11 июля",
+  "attractions": [
+    {
+      "name": "Рынок Вроцлава",
+      "imageUrl": "https://cdn.pixabay.com/photo/2018/06/28/16/37/wroclaw-3504314_1280.jpg",
+      "description": "Рынок Вроцлава - это средневековый рынок и значительная туристическая достопримечательность города.",
+      "address": "Rynek 1, 50-116 Wrocław",
+      "addressUrl": "https://goo.gl/maps/Zg7tero5p2V3EEL4A?coh=178571&entry=tt",
+      "openingHours": "Круглосуточно"
+    },
+    {
+      "name": "Университет Вроцлава",
+      "imageUrl": "https://cdn.pixabay.com/photo/2021/10/24/20/31/building-6739268_1280.jpg",
+      "description": "Университет Вроцлава - это один из старейших и самых престижных университетов в Польше.",
+      "address": "pl. Uniwersytecki 1, 50-001 Wrocław",
+      "addressUrl": "https://goo.gl/maps/dBn1YTKKLh3ehc4s9?coh=178571&entry=tt",
+      "openingHours": "9:00 - 17:00"
+    },
+    {
+      "name": "Остров Тумский",
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/05/28/17/18/wrocaw-5231925_1280.jpg",
+      "description": "Остров Тумский - самая старая часть города, когда-то служившая его центром.",
+      "address": "Ostrów Tumski, Wrocław",
+      "addressUrl": "https://goo.gl/maps/i1AvsXFKPn3xPcV29?coh=178571&entry=tt",
+      "openingHours": "Круглосуточно"
+    },
+    {
+      "name": "Собор Святого Иоанна Крестителя",
+      "imageUrl": "https://cdn.pixabay.com/photo/2018/01/21/12/49/poland-3096512_1280.jpg",
+      "description": "Собор Святого Иоанна Крестителя - это главный римско-католический собор на Острове Тумском, величественное здание в стиле готики.",
+      "address": "pl. Katedralny 18, 50-329 Wrocław",
+      "addressUrl": "https://goo.gl/maps/1XjbCVVS9RicPMpk6?coh=178571&entry=tt",
+      "openingHours": "7:00 - 18:00"
+    },
+    {
+      "name": "Панорама Рацлавицкая",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/RotundaPanoramyRaclawickiej.jpg",
+      "description": "Панорама Рацлавицкая - это огромная круговая картинная галерея, представляющая собой панорамную картину битвы при Рацлавице.",
+      "address": "Jana Ewangelisty Purkyniego 11, 50-155 Wrocław",
+      "addressUrl": "https://goo.gl/maps/YzuHZWuXSKqVSrEo9?coh=178571&entry=tt",
+      "openingHours": "9:00 - 17:00"
+    }
+  ]
+}
